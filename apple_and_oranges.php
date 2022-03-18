@@ -1,7 +1,7 @@
 <?php
 
 function countApplesAndOranges($s, $t, $a, $b, $apples, $oranges) {
-    
+
     $applesCount = 0;
     $orangeCount = 0;
 

@@ -1,0 +1,1 @@
+{"version":1,"defects":{"PageCountTest::testPageCount":5,"HackerRank\\Tests\\PageCountTest::testPageCount":4,"HackerRank\\Tests\\CutTheSticksTest::testPageCount":3},"times":{"PageCountTest::testPageCount":0.002,"HackerRank\\Tests\\PageCountTest::testPageCount":0.003,"HackerRank\\Tests\\CutTheSticksTest::testPageCount":0.003}}
